@@ -1,4 +1,4 @@
-TopicQuests Master POM [<img src="https://circleci.com/gh/topicquests/master-pom/tree/develop.png?style=shield"/>](https://circleci.com/gh/topicquests/workflows/master-pom)
+TopicQuests Master POM [<img src="https://circleci.com/gh/topicquests/tq-master-pom/tree/develop.png?style=shield"/>](https://circleci.com/gh/topicquests/workflows/tq-master-pom)
 ======================
 
 To be used as [parent pom] in TQ projects.
