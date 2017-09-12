@@ -5,7 +5,7 @@
     <groupId>org.topicquests</groupId>
     <artifactId>tq-master-pom</artifactId>
     <packaging>pom</packaging>
-    <version>0.0.4-SNAPSHOT</version>
+    <version>0.0.5-SNAPSHOT</version>
     <name>${project.artifactId}</name>
     <description>master pom for tq projects</description>
     <url>https://github.com/topicquests/${project.artifactId}</url>
